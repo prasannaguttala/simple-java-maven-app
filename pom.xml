@@ -16,6 +16,7 @@
     </dependency>
   </dependencies>
   <build>
+    <!-- Test comment-->
     <plugins>
       <plugin>
         <!-- Build an executable JAR -->
